@@ -28,8 +28,8 @@ This project is an end-to-end data science endeavor focused on analyzing and pre
 
 1.  **Clone the Repository:**
     ```bash
-    git clone https://github.com/your-username/your-repository-name.git
-    cd your-repository-name
+    git clone https://github.com/krushikreddy18/Road-Accident-Analysis-and-Prediction.git
+    cd Road-Accident-Analysis-and-Prediction
     ```
 2.  **Ensure you have the required data file:**
     Place the `Acc_Classified_according_to_Type_of_Weather_Condition_2014_and_2016.csv` file in the project's root directory.
